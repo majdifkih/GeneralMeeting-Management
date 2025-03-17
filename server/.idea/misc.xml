@@ -8,6 +8,11 @@
         <option value="$PROJECT_DIR$/user-service/pom.xml" />
         <option value="$PROJECT_DIR$/service-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/resolution-service/pom.xml" />
+        <option value="$PROJECT_DIR$/AG-service/pom.xml" />
+        <option value="$PROJECT_DIR$/video-service/pom.xml" />
+        <option value="$PROJECT_DIR$/document-service/pom.xml" />
+        <option value="$PROJECT_DIR$/vote-service/pom.xml" />
       </list>
     </option>
   </component>
